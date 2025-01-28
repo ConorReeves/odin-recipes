@@ -43,3 +43,6 @@ img {
 
 .text:hover { color: pink; }
 
+a {
+    text-decoration: none;
+}
